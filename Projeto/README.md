@@ -75,10 +75,6 @@ Os preços alterados são informados em arquivos. Os preços também possuem val
 
 São informados os preços dos produtos através dos arquivos.
 
-<br>
-<img src="./uploads/foto9.png"/>
-<br>
-
 ### 5. Caixa
 
 Na primeira tela, são selecionados os produtos e sua quantidade até pressionar prosseguir.
