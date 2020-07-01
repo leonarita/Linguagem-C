@@ -1,0 +1,14 @@
+Usuário: Leo
+
+		Dados sobre o produto
+ID: 467
+Nome: Banana Ana Anana
+Fabricante: Macaco Caco Acaco
+País de origem: Inglaterra
+Preço de origem: £200,00
+Preço do Brasil: R$980,00
+
+
+Informações do dia
+	Data: 18/8/2019
+	Hora: 0:0:13
